@@ -18,4 +18,5 @@ Run the script.
 - MATLAB R2023a
 - Image Processing Toolbox
 ## Output
-![Output](<img width="1271" height="620" alt="apple1" src="https://github.com/user-attachments/assets/3ac60e6d-cb16-478b-8c4a-f187b02c83c5" />)
+<img width="1271" height="620" alt="apple1" src="https://github.com/user-attachments/assets/e8fbc728-d7c8-4041-8c3e-72f4a22ad09d" />
+
