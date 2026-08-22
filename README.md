@@ -17,3 +17,4 @@ Run the script.
 ## Requirements
 - MATLAB R2023a
 - Image Processing Toolbox
+![Output](<img width="1271" height="620" alt="apple1" src="https://github.com/user-attachments/assets/3ac60e6d-cb16-478b-8c4a-f187b02c83c5" />)
