@@ -4,9 +4,9 @@ Object detection based on area using MATLAB (Image Processing)
 In this project, using image processing in matlab, different objects (apple, orange, eraser and pen) are recognized based on their area. The output is displayed as a binary image.
 ## Procedure
 Reading the image
-Converting the image to binary format using the "im2bw" function
+Converting the image to binary format using the `im2bw` function
 Thresholding
-Removing noise and filling holes using the bwareaopen function
+Removing noise and filling holes using the `bwareaopen` function
 Calculating the area of ​​objects with the `regionprops` function
 Separating objects based on the area range
 Displaying the binary output
