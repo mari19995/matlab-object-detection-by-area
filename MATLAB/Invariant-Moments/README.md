@@ -23,13 +23,12 @@ The transformations applied include:
 
 ---
 ## Project files
-|----------------|------|
 | `invmoments_BookCode_Part1.m` | First version of the code – reads the pre-prepared images (`fig1.tif` to `fig6.tif`) and calculates the moments. |
 | `invmoments_main_Part2.m` | Second version of the code – reads the original image, applies the transformations, saves the images. |
 
 ---
 ## Prerequisites
-- MATLAB software (version R2023b or higher is recommended)
+- MATLAB software (version R2023a or higher is recommended)
 - Image Processing Toolbox
 - Input images in the same folder as the codes:
 - For `file1.m`: `fig1.tif` to `fig6.tif` files
